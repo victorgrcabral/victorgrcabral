@@ -1,4 +1,8 @@
-## Hello! I'm Victor Gotfrid 😁
+
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&fontColor=3C3D40&color=D7D7D9&height=300&section=header&text=Hello!%20I'm%20Victor%20Gotfrid%20👋&fontSize=56" />
+
+## Sobre Mim 👨‍💻
+
 
  <div>
    <a href="https://github.com/victorgrcabral">
@@ -20,4 +24,8 @@
   <a href="https://instagram.com/victorgotfrid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorgrcabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorgrcabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+ <a href="
 </div>
