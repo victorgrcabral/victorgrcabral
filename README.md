@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Hello! I'm Victor Gotfrid 😁
 
  <div>
    <a href="https://github.com/victorgrcabral">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra mais sobre mim e programação me segue nas redes abaixo!
+### Follow Me on Social Media!
  
 <div> 
   <a href="https://instagram.com/victorgotfrid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
