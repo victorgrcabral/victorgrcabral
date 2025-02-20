@@ -19,12 +19,17 @@
  <br>
  
  <li><b>UX/UI</b></li>
-  <div style="display: inline_block">
-   <img alt="CSS3"style="width:30px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <div style="display: inline_block;">
+   <img alt="Figma"style="width:30px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   </div>
  
  <br>
  <li><b>Design</b></li>
+  <div style="display: inline_block">
+   <img alt="Photoshop" style="width:30px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+   <img alt="Illustrator" style="width:30px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+   <img alt="Premiere" style="width:30px;height:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" />
+  </div>
  
  <br>
  <li><b>Social Media</b></li>
@@ -47,20 +52,17 @@
 
 
 ## 👾 Stats
- <div>
+ <div style="display: inline_block">
    <a href="https://github.com/victorgrcabral">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgrcabral&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgrcabral&layout=compact&langs_count=6&theme=gruvbox"/>
 </div>
     
-<br>
-<div>
+<br><br>
+<div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width:40%;height:40%>
-</div>
-
-### Follow Me on Social Media!
- 
-<div> 
+  
+  ### Follow Me on Social Media!
   <a href="https://instagram.com/victorgotfrid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorgrcabral@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victorgrcabral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
