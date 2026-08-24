@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER IMAGE -->
-<img src="./assets/banner.jpg" width="100%" alt="Victor Gotfrid — Creation of Code Banner" />
+<img src="./assets/profile-banner.jpg" width="100%" alt="Victor Gotfrid — Creation of Code Banner" />
 
 <br /><br />
 
