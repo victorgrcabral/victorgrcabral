@@ -1,9 +1,10 @@
 <div align="center">
 
 <!-- BANNER IMAGE -->
-<img src="./assets/profile-banner.jpg" width="100%" alt="Victor Gotfrid — Creation of Code Banner" />
+<img width="100%" alt="profile-banner" src="https://github.com/user-attachments/assets/291f653a-6478-46b7-be69-0df6a04da2af"/>
 
-<br /><br />
+
+<br />
 
 <!-- LANGUAGE SELECTOR & STATUS BAR -->
 <p align="center">
